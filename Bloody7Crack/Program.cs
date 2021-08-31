@@ -30,6 +30,8 @@ namespace Bloody7Crack
             var stream = File.Open("Bloody7.exe", FileMode.Open);
             stream.Position = 2578955;
             stream.WriteByte(0x85);
+            stream.Position = 2938178;
+            stream.WriteByte(0x84)
             stream.Flush();
             stream.Close();
 
