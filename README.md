@@ -1,2 +1,3 @@
 # Bloody7Crack
-Crack for https://www.bloody.com/ru/download.php
+### Version: V2021.0727
+### Crack for https://www.bloody.com/ru/download.php
