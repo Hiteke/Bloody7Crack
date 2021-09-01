@@ -32,6 +32,18 @@ namespace Bloody7Crack
             stream.WriteByte(0x85);
             stream.Position = 2938178;
             stream.WriteByte(0x84)
+            stream.Position = 2942688;
+            stream.WriteByte(0x84);
+            stream.Position = 2651772;
+            stream.WriteByte(0x84);
+            stream.Position = 2488686;
+            stream.WriteByte(0x85);
+            stream.Position = 3117728;
+            stream.WriteByte(0x84);
+            stream.Position = 2652235;
+            stream.WriteByte(0x84);
+            stream.Position = 2970593;
+            stream.WriteByte(0x84);
             stream.Flush();
             stream.Close();
 
